@@ -4,7 +4,7 @@
 
 # ImagineX
 
-[👉 **Click Here to Install ImagineX** 👈](#download)
+[ **Click Here to Install ImagineX** ](#download)
 
 **ImagineX** is an independently maintained fork of the public Fooocus image-generation project, developed and led by **Usman Amin**. It is built from the existing Fooocus codebase but is not presented as a copy or rebrand-only clone. Instead, it preserves the familiar Fooocus WebUI workflow while extending it with its own deployment model, API capabilities, queueing, safety controls, backend flexibility, and container support.
 
@@ -13,11 +13,11 @@
 >
 > This project is protected as an independently maintained work by Usman Amin. You may use it for your own daily work and internal tasks, but you may not copy, paste, repackage, or claim it as your own project without permission.
 
-> ⚠️ **Beware of fake websites claiming to be Fooocus or ImagineX.** The only official source is this GitHub page.
+>  **Beware of fake websites claiming to be Fooocus or ImagineX.** The only official source is this GitHub page.
 
 ---
 
-## 🚦 Project Status
+##  Project Status
 
 **ImagineX is actively maintained as a differentiated, owner-led project** with its own deployment, API, queue, and safety-focused direction. It is intended to be used as a self-managed creative platform rather than treated as a generic upstream clone.
 
@@ -28,7 +28,7 @@ For newer models like **Flux**, try:
 
 ---
 
-## 🧠 About ImagineX
+##  About ImagineX
 
 ImagineX is a self-managed image generation platform built and maintained by **Usman Amin**. It is designed for users who want a familiar, high-quality generation workflow without depending on a generic upstream experience.
 
@@ -39,7 +39,7 @@ This project is not merely a renamed copy of the old Fooocus project. It is a mo
 - safety controls,
 - and a cleaner path to private or team use.
 
-## ✨ Features
+##  Features
 
 ## Why ImagineX is Better
 
@@ -74,7 +74,7 @@ More in [Advanced Features](https://github.com/lllyasviel/Fooocus/discussions/11
 
 ---
 
-## � Queue & Shared Deployments
+##  Queue & Shared Deployments
 
 For small-team shared deployments, the API can use a queue layer for fair scheduling across available GPUs. Configure:
 
@@ -86,9 +86,9 @@ Jobs can be polled with `/v1/jobs/{job_id}` while queued work is processed in th
 
 ---
 
-## �📥 Download & Install
+##  Download & Install
 
-### 🔹 Windows (NVIDIA)
+###  Windows (NVIDIA)
 
 1. Clone or download this ImagineX repository.
 2. Extract the archive if needed.
@@ -102,7 +102,7 @@ Jobs can be polled with `/v1/jobs/{job_id}` while queued work is processed in th
 - `run_anime.bat` – Anime
 - `run_realistic.bat` – Realistic
 
-### 🔹 Google Colab
+###  Google Colab
 
 Run in the cloud:
 
@@ -114,7 +114,7 @@ Example:
 !python entry_with_update.py --share --always-high-vram --preset anime
 ```
 
-### 🔹 Linux (Anaconda)
+###  Linux (Anaconda)
 
 ```bash
 git clone <your-imaginex-repository-url>
@@ -125,7 +125,7 @@ pip install -r requirements_versions.txt
 python entry_with_update.py
 ```
 
-### 🔹 Linux (Python venv)
+###  Linux (Python venv)
 
 ```bash
 git clone <your-imaginex-repository-url>
@@ -136,7 +136,7 @@ pip install -r requirements_versions.txt
 python entry_with_update.py
 ```
 
-### 🔹 AMD GPU (Windows/Linux)
+###  AMD GPU (Windows/Linux)
 
 ```bash
 pip uninstall torch torchvision torchaudio
@@ -147,16 +147,16 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 python entry_with_update.py --directml --preset anime
 ```
 
-> ✅ ROCm and DirectML are now treated as supported backend paths with explicit guidance and smoke tests.
+>  ROCm and DirectML are now treated as supported backend paths with explicit guidance and smoke tests.
 
-### 🔹 Apple Silicon (macOS)
+###  Apple Silicon (macOS)
 
 ```bash
 pip install -r requirements_versions.txt
 python entry_with_update.py
 ```
 
-> ✅ Apple Silicon/MPS is now documented as a supported backend path for compatible Macs; expect shared-memory behavior and slower throughput than CUDA.
+>  Apple Silicon/MPS is now documented as a supported backend path for compatible Macs; expect shared-memory behavior and slower throughput than CUDA.
 
 ### Compatibility matrix
 
@@ -170,7 +170,7 @@ python entry_with_update.py
 
 ---
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 - **Corrupted models** → Re-download model files
 - **RuntimeError: CPUAllocator** → Enable swap memory
@@ -180,15 +180,15 @@ More: [Troubleshooting Guide](https://github.com/lllyasviel/Fooocus/blob/main/do
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/938737a5-b105-4f19-b051-81356cb7c495" width="600">
 
 ---
 
-## 👨‍💻 Maintained By
+##  Maintained By
 
-### Usman Amin | Founder at ImagineX
+### Usman Amin | Founder of ImagineX
 
 <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
     <tr style="background-color: #64B5F6; color: #ffffff;">
