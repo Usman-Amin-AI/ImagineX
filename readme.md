@@ -102,17 +102,6 @@ Jobs can be polled with `/v1/jobs/{job_id}` while queued work is processed in th
 - `run_anime.bat` – Anime
 - `run_realistic.bat` – Realistic
 
-###  Google Colab
-
-Run in the cloud:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
-
-Example:
-
-```bash
-!python entry_with_update.py --share --always-high-vram --preset anime
-```
 
 ###  Linux (Anaconda)
 
@@ -197,7 +186,6 @@ More: [Troubleshooting Guide](https://github.com/lllyasviel/Fooocus/blob/main/do
         <th style="padding: 8px;">LinkedIn</th>
         <th style="padding: 8px;">GitHub</th>
         <th style="padding: 8px;">Kaggle</th>
-        <th style="padding: 8px;">LeetCode</th>
         <th style="padding: 8px;">WhatsApp</th>
     </tr>
     <tr style="background-color: #FFFFFF; color: #000000;">
