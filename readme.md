@@ -202,29 +202,26 @@ More: [Troubleshooting Guide](https://github.com/lllyasviel/Fooocus/blob/main/do
     </tr>
     <tr style="background-color: #FFFFFF; color: #000000;">
         <td style="padding: 8px;">Usman Amin</td>
-        <td style="padding: 8px;">mustafashoukat.ai@gmail.com</td>
+        <td style="padding: 8px;">usmanamin.ai.dev@gmail.com</td>
         <td style="padding: 8px;">
-            <a href="https://www.linkedin.com/in/mustafashoukat/" target="_blank">
+            <a href="https://www.linkedin.com/in/usman-amin-ai/" target="_blank">
                 <img src="https://img.shields.io/badge/LinkedIn-0e76a8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
             </a>
         </td>
         <td style="padding: 8px;">
-            <a href="https://github.com/Mustafa-Shoukat1" target="_blank">
+            <a href="https://github.com/Usman-Amin-AI" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
             </a>
         </td>
         <td style="padding: 8px;">
-            <a href="https://www.kaggle.com/mustafashoukat" target="_blank">
+            <a href="https://www.kaggle.com/usmanamin01" target="_blank">
                 <img src="https://img.shields.io/badge/Kaggle-20beff.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
             </a>
         </td>
-        <td style="padding: 8px;">
-            <a href="https://leetcode.com/mustafashoukat" target="_blank">
-                <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge">
-            </a>
+           </a>
         </td>
         <td style="padding: 8px;">
-            <a href="https://wa.me/923093609261" target="_blank">
+            <a href="https://wa.me/923183007566" target="_blank">
                 <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge">
             </a>
         </td>
